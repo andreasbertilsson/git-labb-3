@@ -1,2 +1,2 @@
 # git-labb-3
-Lets merge some conflicts!
+## Lets merge some conflicts!
